@@ -11,9 +11,9 @@ repository. No production release is available here yet.
 Initial baseline: [Vearl v0.1.0-rc23](https://github.com/vearl-verified-compute/vearl/releases/tag/v0.1.0-rc23).
 The first development target is Linux x86_64 with NVIDIA Ada GPUs.
 
-Work in progress: reproducible benchmarks, CPU/GPU correctness checks and CUDA
-launch-overhead reduction. No speedup over the reference or third-party miners is
-claimed at this stage.
+Work in progress: reproducible benchmarks, CPU/GPU correctness checks, batch
+autotuning and CUDA hash optimization. No public release or independently
+validated pool-performance claim is available at this stage.
 
 For current official software and network instructions, use the
 [official releases](https://github.com/vearl-verified-compute/vearl/releases) and
